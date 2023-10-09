@@ -2,7 +2,7 @@
 My name is Zachary Moore, I love my children, technology, and reading.
 ### Growth Mindset
 
-Growth mindset is the idea that failure, doubt, and mis reasoning are inevitable. What *you* do about it is what really determines an outcome.
+Growth mindset is the idea that failure, doubt, and mis reasoning are inevitable. What *you* do about it is what really determines an outcome. :+1:
 * Obstacles are meant to be overcome.
 * Failure is always a lesson.
 * Anything worth doing is never easy.
