@@ -1,4 +1,5 @@
 # My Learning Journal
+My name is Zachary Moore, I love my children, technology, and reading.
 ### Growth Mindset
 
 Growth mindset is the idea that failure, doubt, and mis reasoning are inevitable. What *you* do about it is what really determines an outcome.
