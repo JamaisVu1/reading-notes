@@ -1,6 +1,6 @@
 # Table Of Contents for Code-102
 
-- [Reading Notes 1](/home/zach/projects/courses/code-102/reading-notes/Code-102/reading-notes-01.md)
+- [Reading Notes 1](./reading-notes-01.mdCode-102/reading-notes-01.md)
 
 - [Reading Notes 2](Code-102/reading-notes-02.md)
 
