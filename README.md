@@ -3,7 +3,7 @@
 My name is Zachary Moore, I love my children, technology, and reading. **Feel free to check out [My Github](https://github.com/JamaisVu1)**
 
 **Table of contents**
-- [Code 102]
+- [Code 102]()
 
 
 ### Growth Mindset
