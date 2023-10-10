@@ -1,6 +1,10 @@
 # My Learning Journal
 
-My name is Zachary Moore, I love my children, technology, and reading.
+My name is Zachary Moore, I love my children, technology, and reading. **Feel free to check out [My Github](https://github.com/JamaisVu1)**
+
+**Table of contents**
+- [Code 102]
+
 
 ### Growth Mindset
 
@@ -18,4 +22,3 @@ Growth mindset is the idea that failure, doubt, and mis reasoning are inevitable
 
 <img src="https://live.staticflickr.com/65535/51761610380_51eb1eabf2_b.jpg"  width="40%" height="40%">
 
-**Feel free to check out [My Github](https://github.com/JamaisVu1)**
