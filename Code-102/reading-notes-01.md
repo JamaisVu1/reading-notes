@@ -1,6 +1,10 @@
 # Reading Notes 01
 
-## What is Markdown?
+## Lesson Summary
+
+I made a webpage using GitHub Pages, and a markup language called Markdown. A language when combined with Jekyll, allowed me to see the results right after getting my feet wet.
+
+### What is Markdown?
 
 Markdown is a popular markup language, used to format plaintext documents. Similar to word processors such as Microsoft Word or Google Docs.
 
