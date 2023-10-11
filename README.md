@@ -8,6 +8,6 @@
 
 - [Code 201](Code-201/code-201-table.md)
 
-My name is Zachary Moore, I love my children, technology, and reading. **Feel free to check out [My Github](https://github.com/JamaisVu1)**
+### My name is Zachary Moore, I love my children, technology, and reading. **Feel free to check out [My Github](https://github.com/JamaisVu1)**
 
-This website is a repository for my projects and homework.
+*This website is a repository for my projects and homework.*
