@@ -27,6 +27,6 @@ There are three ways to insert CSS, Inline, Internal, and External.
 
 3. Write an example of a CSS rule that would give all < p > elements red text.
 
-   p {
+  - p {
     color: red;
 }
