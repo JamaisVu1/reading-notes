@@ -22,4 +22,4 @@
 
 5. What is the command to send your changed files to Github?
 
-   Git push origin master.
+   Git push origin main.
