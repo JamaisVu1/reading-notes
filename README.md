@@ -1,13 +1,15 @@
-# My Learning Journal
-
-**Table of contents**
-
-- [Growth Mindset](Code-102/growth.md)
-
-- [Code 102](Code-102/code-102-table.md)
-
-- [Code 201](Code-201/code-201-table.md)
-
-### My name is Zachary Moore, I love my children, technology, and reading. **Feel free to check out [My Github](https://github.com/JamaisVu1)**
+# Reading Notes
 
 *This website is a repository for my projects and homework.*
+
+## Table of contents
+
+### [Growth Mindset](Code-102/growth.md)
+
+### [Code 102 - Intro to Software Development](Code-102/code-102-table.md)
+
+### [Code 201 - Foundations of Software Development](Code-201/code-201-table.md)
+
+### [Code 301 - Intermediate Software Development](TBD)
+
+### [Code 401 - Advanced Software Development](TBD)
