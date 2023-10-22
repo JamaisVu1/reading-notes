@@ -29,3 +29,5 @@
 - [Reading Notes 14](reading-notes-14.md)
 
 - [Reading Notes 15](reading-notes-15.md)
+
+- [Prompt Engineering](prompt-engineering.md)
