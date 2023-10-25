@@ -1,5 +1,6 @@
 # Reading Notes 3
 
+These notes are important because they expand on base development skills.
 ## Reading
 
 ### HTML
@@ -43,6 +44,19 @@ Yes, a multidimensional array can be accessed with double brackets.
 3. List five shorthand operators for assignment in javascript and describe what they do.
 
 x += f(), adds the result of a function to x.
-x *= f(), 
+x *= f(), similar to above but multiplies
+x -= f(), similar to above but subtracts
+x /= f(), similar to above but divides
+x /= f(), similar to above but uses a determined exponent to apply to function
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
+
+10dog, 10 + false evaluates to 10, leaving 10 + dog
+
+5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
+
+If the floor is dirty, sweep.
+
+6. Give an example of when a Loop is useful in JavaScript.
+
+If floor is dirty, sweep. If floor is still dirty, keep sweeping until it isn't.
