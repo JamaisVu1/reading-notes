@@ -2,11 +2,11 @@
 
 ## JavaScript Canvas
 
-1. What does the <canvas> allow a developer to acheive?
+1. What does the canvas allow a developer to acheive?
 
 Allows developers to draw interactive 2D graphics.
 
-2. What is the importance of the closing `</canvas> tag?
+2. What is the importance of the closing canvas tag?
 
 The element require a closing tag so that in the event the browser does not support canvas the fallback content will display.
 
