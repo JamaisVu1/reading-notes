@@ -10,6 +10,6 @@
 
 ### [Code 201 - Foundations of Software Development](Code-201/code-201-table.md)
 
-### [Code 301 - Intermediate Software Development](TBD)
+### [Code 301 - Intermediate Software Development](Code-301/301-table.md)
 
 ### [Code 401 - Advanced Software Development](TBD)
