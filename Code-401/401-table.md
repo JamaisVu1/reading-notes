@@ -85,3 +85,5 @@
 - [Reading Notes 43](401-reading-notes-43.md)
 
 - [Introduction to SQL](401-SQL.md)
+
+- [Practice In The Terminal](practice-in-terminal.md)
