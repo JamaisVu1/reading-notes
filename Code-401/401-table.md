@@ -88,4 +88,6 @@
 
 - [Practice In The Terminal](practice-in-terminal.md)
 
--[Engineering Reading](enigineering-reading.md)
+- [Engineering Reading](enigineering-reading.md)
+
+- [Data Structures](data-structures.md)
