@@ -87,3 +87,5 @@
 - [Introduction to SQL](401-SQL.md)
 
 - [Practice In The Terminal](practice-in-terminal.md)
+
+-[Engineering Reading](enigineering-reading.md)
