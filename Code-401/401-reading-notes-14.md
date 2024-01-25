@@ -14,4 +14,4 @@ distplot() visualizes data spread like exam score distribution.
 
 3. Discuss the role of the Seaborn Cheat Sheet in a Python developer’s workflow. What are some key sections or elements featured in the cheat sheet that can help a developer quickly reference Seaborn functionalities?
 
-It provides a quick reference when working with seaborn, like the catagorical plot section giving quick access to its abilities.
+It provides a quick reference when working with seaborn, like the catagorical plot section giving developers quick access to its abilities.
