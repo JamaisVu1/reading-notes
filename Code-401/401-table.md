@@ -95,3 +95,5 @@
 - [Ethics In Tech](ethics-in-tech.md)
 
 -[Resume/ Mat](resume.png)
+
+-[Interview](interview.png)
